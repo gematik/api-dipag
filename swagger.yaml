@@ -1,8 +1,8 @@
 swagger: "2.0"
 info:
-  title: E-Rechnung API
+  title: Digitale Patientenrechnung Permission API
   description: |
-    Diese Schnittstelle beschreibt das Verhalten des E-Rechnung-Fachdienst. Diese Spezifikation ist ergänzend zu der FHIR-Spezifikation zu sehen.
+    Diese Schnittstelle beschreibt das Verhalten des Fachdienstes Digitale Patientenrechnung. Diese Spezifikation ist ergänzend zu der FHIR-Spezifikation zu sehen.
   version: 1.0.0-cc
 schemes:
   - https
